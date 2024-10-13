@@ -14,6 +14,6 @@ int main()
     string str;
     //use of getline function.
     getline(cin, str);
-    cout << str<<endl;
+    cout << str<<endl;cout<<"lauda lassan";
     return 0;
 }
