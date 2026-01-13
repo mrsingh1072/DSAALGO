@@ -6,9 +6,6 @@ print pattern like this:-
 4444
 55555
 */
-
-
-
 #include<bits/stdc++.h>
 using namespace std;
 int main()
