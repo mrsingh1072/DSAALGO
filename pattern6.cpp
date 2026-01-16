@@ -6,6 +6,12 @@ print pattern like this:-
 12
 1
 */
+
+
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
