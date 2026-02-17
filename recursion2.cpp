@@ -1,4 +1,7 @@
 // ptint number from 1 to n
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 void print_num(int i,int n){
