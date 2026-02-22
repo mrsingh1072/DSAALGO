@@ -8,12 +8,6 @@ print the pattern like this:-
 4333334
 4444444
 */
-
-
-
-
-
-
 #include<bits/stdc++.h>
 using namespace std;
 int main()
