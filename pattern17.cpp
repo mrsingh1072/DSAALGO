@@ -5,6 +5,13 @@ print this pattern:-
  ABCBA
 ABCDCBA
 */
+
+
+
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
