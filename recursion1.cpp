@@ -1,13 +1,4 @@
 //print names 5 times
-
-
-
-
-
-
-
-
-
 #include<bits/stdc++.h>
 using namespace std;
 
